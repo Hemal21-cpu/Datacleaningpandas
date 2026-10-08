@@ -1,0 +1,20 @@
+emp_id,name,age,department,salary,join_date,city,performance_score
+101,Aarav Sharma,29,Engineering,"65,000",2021-03-15,Pune,4.2
+102,Priya Patel,34,Marketing,58000,2019-07-01,Mumbai,3.8
+103,Rohan Mehta,,Engineering,72000,2020-11-20,Pune,4.5
+104,Sneha Iyer,27,HR,45000,2022-01-10,Bengaluru,
+105,Vikram Singh,41,Finance,88000,2015-05-25,Delhi,4.0
+106,Ananya Rao,31,Marketing,61000,2018-09-12,Mumbai,3.5
+102,Priya Patel,34,Marketing,58000,2019-07-01,Mumbai,3.8
+107,Karan Joshi,twenty-eight,Engineering,70000,2021-06-30,Pune,4.1
+108,Meera Nair,36,Finance,,2017-02-14,Chennai,3.9
+109,Arjun Verma,45,HR,52000,2014-08-08,Delhi,3.2
+110,Divya Kulkarni,26,engineering,63000,2023-04-03,pune,4.4
+111,Rahul Desai,38,Finance,91000,2016-10-19,Mumbai,
+105,Vikram Singh,41,Finance,88000,2015-05-25,Delhi,4.0
+112,Neha Kapoor,30,Marketing,59000,not available,Bengaluru,3.7
+113,Siddharth Bose,52,Finance,"1,05,000",2012-12-01,Kolkata,4.6
+114,Ishita Gupta,-5,HR,47000,2022-09-09,Delhi,3.4
+115,Manish Yadav,33,Engineering,68000,2019-03-23,Pune,3.6
+116,Pooja Reddy,,Marketing,,2020-05-18,Hyderabad,3.9
+117,Aditya Chavan,29,Engineering ,71000,2021-08-27,Pune ,4.3
